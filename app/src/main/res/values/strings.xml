@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVMToDoApp</string>
+    <string name="todo_deleted">Todo Deleted</string>
+    <string name="undo">Undo</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+</resources>
